@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ghoshritesh540@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fydbQ911js_vVxoWI2J_2xmRnKJ8iGf4/view?usp=sharing](https://drive.google.com/file/d/1fydbQ911js_vVxoWI2J_2xmRnKJ8iGf4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fydbQ911js_vVxoWI2J_2xmRnKJ8iGf4/view?usp=sharing](https://drive.google.com/drive/folders/1uDq15F_AFUhmq36X73wfztbkas3vHywh)
 
 - ⚡ Fun fact **I can solve Rubik's cube.... sometimes**
 
