@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 <h1 align="center">Hi 👋, I'm Ritesh Ghosh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="270" src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
+<img align="right" alt="Coding" width="260" src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshghosh01&label=Profile%20views&color=0e75b6&style=flat" alt="riteshghosh01" /> </p>
 
