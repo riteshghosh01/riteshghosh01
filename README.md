@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Ghosh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <div align="center">
-  <img alt="Coding" width="300" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); transform: rotateY(10deg);" src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
+  <img alt="Coding" width="250" style="border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); transform: rotateY(10deg);" src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshghosh01&label=Profile%20views&color=0e75b6&style=flat" alt="riteshghosh01" /> </p>
